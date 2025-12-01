@@ -50,10 +50,18 @@ h3 {
 
 /* Small heading style for individual tip titles - uppercase and centered */
 h4 {
-    text-transform: uppercase;
-    font-size: 1.3em;
-    text-align: center;
+    
+    font-size: 1em;
+    text-align: left;
 }
+
+h5 { 
+font-size: 1em;
+    text-align: left;
+
+
+}
+
 
 /* Center align all h3 section headers */
 h3 {
