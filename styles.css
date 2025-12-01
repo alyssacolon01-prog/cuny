@@ -17,7 +17,7 @@ You will find this is far easier than the opposite task of using CSS to cram you
 
 /* Apply border-box sizing to all elements - makes width/height calculations easier */
 body {
-  background-color:rgb(245, 218, 183);
+  background-color:lightgrey;
 }
 
 * {
