@@ -43,9 +43,11 @@ h1 {
 
 /* Medium heading size with gray color for section headers */
 h3 {
+    text-align: left;
     font-size: 1em;
     font-style:italic;
     color: gray;
+    
 }
 
 /* Small heading style for individual tip titles - uppercase and centered */
